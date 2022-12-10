@@ -7,7 +7,7 @@ Hi, I’m **Lucas** 👋
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Lucas-python" width="40" height="40"/> </a>
   <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="Lucas-sql" width="40" height="40"/> </a></p>
   
-##### Python packages
+##### Packages
 
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
