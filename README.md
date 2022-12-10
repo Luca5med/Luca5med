@@ -29,7 +29,8 @@ How to reach me ...
   <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="numpy" width="40" height="40"/> </a>
  -->
-<!--
+
+<div>
   <a href="https://github.com/Luca5med">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luca5med&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5med&layout=compact&langs_count=7&theme=dracula"/>
