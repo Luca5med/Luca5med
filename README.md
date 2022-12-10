@@ -3,13 +3,36 @@ I’m interested in ...
 I’m currently learning ...
 I’m looking to collaborate on ...
 How to reach me ...
-          
+
+
+#### Languages
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Lucas-python" width="40" height="40"/> </a>
+  <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="Lucas-sql" width="40" height="40"/> </a></p>
+  
+##### Python packages
+
+<p align="left"> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="geopandas" width="40" height="40"/> </a> 
+  <a href="https://geopandas.org/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="plotly" width="40" height="40"/> </a> 
+  <a href="https://https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY=w240-h480-rw" alt="Beutiful Soup" width="40" height="40"/> </a>
+</p>
+
+<!-- <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="numpy" width="40" height="40"/> </a>
+ -->
+<!--
   <a href="https://github.com/Luca5med">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luca5med&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5med&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
