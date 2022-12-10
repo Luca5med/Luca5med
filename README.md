@@ -1,6 +1,6 @@
 Hi, I’m **Lucas** 👋
 
-:heart: I’m a Data Scientist (Ada Tech) and MSc. in Chemical Engineer (UFCG)
+- I’m a Data Scientist (Ada Tech) and MSc. in Chemical Engineer (UFCG)
 
 
 #### Languages
