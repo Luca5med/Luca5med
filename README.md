@@ -20,12 +20,6 @@ Hi, I’m **Lucas** 👋
   <a href="https://geopandas.org/" target="_blank" rel="noreferrer"> <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="plotly" width="40" height="40"/> </a>
   <a href="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" target="blank" rel="noreferrer"> <img width="40" height="40" alt="Scikit learn logo small" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/256px-Scikit_learn_logo_small.svg.png"></a>
 
-<div>
-  <a href="https://github.com/Luca5med">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luca5med&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca5med&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   ##
  
 <div> 
